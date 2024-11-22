@@ -36,9 +36,15 @@
 1. Once connected, the right panel will show your files on the UNT server.
 2. Drag and drop files between your Mac and the server.
 
+<img width="1470" alt="Screenshot 2024-11-22 at 12 06 38 AM" src="https://github.com/user-attachments/assets/aa471a99-64ec-470a-8843-b79fbed797f0">
+
+
 ## Run Script
 
 After loading the Assignment 4 file, follow these steps:
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/092ba799-2ca2-4aec-bc7c-c07b0893f389">
+
 
 ```bash
 uv0032@cell03-cse:~$ cd Assignment4/
